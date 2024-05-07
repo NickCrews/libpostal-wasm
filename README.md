@@ -15,3 +15,7 @@ to enable efficient bulk data parsing.
 - Is the serialization the actual bottleneck? Like maybe I should
   just keep using the existing serial interface using pypostal, and the python<->C
   interop isn't actually the problem there.
+
+## License
+
+public domain, do what you want.
